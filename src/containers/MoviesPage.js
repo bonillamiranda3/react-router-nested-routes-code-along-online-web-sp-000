@@ -19,4 +19,4 @@ const MoviesPage = ({ match, movies }) => (
 
 )
 
-export default MoviesPage
+export default MoviesPage;
